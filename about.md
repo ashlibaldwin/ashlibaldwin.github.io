@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like to learn a lot of different things.
 
-### More Information
+### Stuff I'm doing right now
 
-A place to include any other types of information that you'd like to include about yourself.
+* I work at [Gaia GPS](https://www.gaiagps.com/company)
+* I blog about women's adventure topics on [Tentside.com](http://www.tentside.com/about/)
+* I started a [website for making gear lists](https://ashlibaldwin.pythonanywhere.com/)
+* I have a bunch of random projects on [my github page](https://github.com/ashlibaldwin/)
+* I help my husband with his voiceover work (website coming soon!)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ashlicharette@gmail.com](mailto:ashlicharette@gmail.com)
