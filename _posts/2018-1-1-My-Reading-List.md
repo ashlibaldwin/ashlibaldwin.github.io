@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Suggested Reading
+commentIssueId: 2
 ---
 
 As a motivated individual, I'm always looking for advice to up my game. Many of these books come recommended from successful entreprenuers and buisiness-persons.

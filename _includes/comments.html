@@ -1,0 +1,81 @@
+
+<style type="text/css">
+	.commentdate {
+		color: rgba(158, 157, 158, 0.7);
+		font-size: 1.1em;
+		font-style: italic;
+	}
+
+	.commentuser {
+		padding-left:20px;
+		padding-bottom:20px;
+	}
+
+	.commentgravatar img{
+		vertical-align: middle
+	}
+
+	.commentheader {
+		padding: 0px 0px 5px 5px;
+		background: rgba(0, 0, 0, 0.7); 
+	}
+
+	.commentbody {
+		border: 1px solid black;
+		padding:20px;
+		margin:0px 0px 5px 0px;
+	}
+
+</style>
+
+<div class="clearfix"></div>
+<br>
+<div id="comments">
+	<div class="post-header bg-{{site.default_post_color}}">
+	  <h1 class="h1 post-title">Comments</h1>
+	  <hr />
+	</div>
+
+	<article class="post-content">
+		<p>Want to leave a comment? Visit <a target="_blank" href="https://github.com/ashlibaldwin/ashlibaldwin.github.io/issues/{{page.commentIssueId}}"> this post's issue page on GitHub</a> (you'll need a GitHub account).</p>
+	</article>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+  function loadComments(data) {
+    for (var i=0; i<data.length; i++) {
+      var cuser = data[i].user.login;
+      var cuserlink = data[i].user.html_url;
+      var clink = data[i].html_url;
+      var cbody = data[i].body_html;
+      var cavatarlink = data[i].user.avatar_url;      
+      var cdate = new Date(data[i].created_at);
+      $("#comments").append(
+         "<div class='comment'>" + 
+            "<div class='commentheader'>" + 
+            	              "<p class='commentdate pull-right' " + "\">" + 
+                cdate.toLocaleDateString("en") +  
+              "</p>" +
+              "<div class='commentgravatar row'>" + 
+                '<img src="' + cavatarlink + '" alt="" width="30" height="30">' + 
+                "<a class='commentuser' href=\""+ cuserlink + "\">" + 
+                cuser + 
+              "</a>" + 
+              "</div>" + 
+            "</div>" + 
+            "<div class='commentbody'>" + 
+              cbody + 
+            "</div>" + 
+          "</div>"
+      );
+    }
+  }
+  $.ajax("https://api.github.com/repos/ashlibaldwin/ashlibaldwin.github.io/issues/{{ page.commentIssueId }}/comments", {
+    headers: {Accept: "application/vnd.github.v3.html+json"},
+    dataType: "json",
+    success: function(msg){
+      loadComments(msg);
+   }
+  });
+</script>

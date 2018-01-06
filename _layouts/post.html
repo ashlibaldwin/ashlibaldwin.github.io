@@ -12,6 +12,9 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+  {% if page.commentIssueId %}
+  	{% include comments.html %}
+  {% endif %}
 
   {% include disqus.html %}
 </article>
