@@ -12,7 +12,7 @@ I like to learn a lot of different things.
 * I blog about women's adventure topics on [Tentside.com](http://www.tentside.com/about/)
 * I started a [website for making gear lists](https://ashlibaldwin.pythonanywhere.com/)
 * I have a bunch of random projects on [my github page](https://github.com/ashlibaldwin/)
-* I help my husband with his voiceover work (website coming soon!)
+* I help my husband with his voiceover work and built a website for him. Click here to learn about the [best voice over on fiverr](http://baldwinvoice.com/)
 
 ### Contact me
 
