@@ -30,6 +30,10 @@ Here's a list of the books I've read, am reading, or plan to read.
 
 	*I read this book long ago - but still find it relevant today. This is a back to basics book that everyone should read. It's the first step in understander your own influence in the world, and how it can be leveraged to affect change.*
 
+* **[Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](http://amzn.to/2C52Prp) - Nick Bilton**
+
+	*An account of the first few tumuluous years of Twitter's growth, told in story format. Put together from several different accounts of the truth, Nick Bilton weaves a tale of backstabbing and power plays as the founders of Twitter fight to maintain control of the beast they created.*
+
 ### In the queue
 
 * **[Difficult Conversations: How to Discuss What Matters Most](http://amzn.to/2CzA872) - Douglas Stone**
@@ -56,6 +60,3 @@ Here's a list of the books I've read, am reading, or plan to read.
 
 	*Another recommended read from Auren Hoffman. See [Aurens full recommended reading list here](http://blog.summation.net/2013/03/my-reading-list.html).*
 
-* **[Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](http://amzn.to/2C52Prp) - Nick Bilton**
-
-	*Showed up in my Amazon Recommended Reading list. I'm interested to get insight into the minds that created a social media giant.*
