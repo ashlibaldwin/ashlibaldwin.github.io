@@ -4,9 +4,13 @@ title: Suggested Reading
 commentIssueId: 2
 ---
 
-As a motivated individual, I'm always looking for advice to up my game. Many of these books come recommended from successful entreprenuers and buisiness-persons.
+This is my reading list of books for business. 
 
-Here's a list of the books I've read, am reading, or plan to read.
+Many of these books come recommended from successful entreprenuers and buisiness-persons.
+
+Some I have read, and towards the bottom are others that I plan to read.
+
+Please leave a comment with any recommendations for books that I should add to this list.
 
 ### Read
 
@@ -32,7 +36,15 @@ Here's a list of the books I've read, am reading, or plan to read.
 
 * **[Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](http://amzn.to/2C52Prp) - Nick Bilton**
 
-	*An account of the first few tumuluous years of Twitter's growth, told in story format. Put together from several different accounts of the truth, Nick Bilton weaves a tale of backstabbing and power plays as the founders of Twitter fight to maintain control of the beast they created.*
+	*An account of the first few tumultuous years of Twitter's growth, told in story format. Put together from several different accounts of the truth, Nick Bilton weaves a tale of backstabbing and power plays as the founders of Twitter fight to maintain control of the beast they created.*
+
+* **[In the Plex: How Google Thinks, Works, and Shapes Our Lives](http://amzn.to/2CmPv63) - Steven Levy**
+
+	*A look into Google, starting at very beginnings of the company. I enjoyed the first half of this book the most, as it dug into the complex, interesting, and sometimes comical issues that they faced in building the first iterations of the Google search engine.*
+
+* **[The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/B019MMUA8S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Mark Manson**
+
+	*Not really a business book, but a great read nonetheless. I found it to be a summary of what you should and should not take seriously in life. Mark clearly delineates between being over emphatic and apatheic, and teaches how to find a spot between the two.*
 
 ### In the queue
 
@@ -48,9 +60,6 @@ Here's a list of the books I've read, am reading, or plan to read.
 
 	*I ran across this title while learning about businiess planning at a nubile level. I haven't had the chance to read yet, but reviews seem promising*
 
-* **[In the Plex: How Google Thinks, Works, and Shapes Our Lives](http://amzn.to/2CmPv63) - Steven Levy**
-
-	*While learning about OKRs (objectives and key results), I learned that Google has been at the forefront of this methodology - using OKRs to help them acheive great success. I'm excited to get a peak being the curtain in this read*
 
 * **[Influence: The Psychology of Persuasion](http://amzn.to/2q8zf2N) - Robert B. Cialdini**
 
@@ -59,4 +68,8 @@ Here's a list of the books I've read, am reading, or plan to read.
 * **[Against the Gods: The Remarkable Story of Risk](http://amzn.to/2qbu8yP) Peter L. Bernstein** 
 
 	*Another recommended read from Auren Hoffman. See [Aurens full recommended reading list here](http://blog.summation.net/2013/03/my-reading-list.html).*
+
+* **[Peopleware: Productive Projects and Teams (3rd Edition) ](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) Tom DeMarco and Tim Lister** 
+
+	*A book on how to maximize succcess and manage people in the world of software development.*
 
