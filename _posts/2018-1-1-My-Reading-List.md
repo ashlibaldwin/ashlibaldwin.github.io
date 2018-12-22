@@ -6,13 +6,13 @@ commentIssueId: 2
 
 This is my reading list of books for business. 
 
-Many of these books come recommended from successful entreprenuers and buisiness-persons.
+Many of these books come recommended from successful entreprenuers.
 
 Some I have read, and towards the bottom are others that I plan to read.
 
 Please leave a comment with any recommendations for books that I should add to this list.
 
-### Read
+### Book I have read
 
 * **[Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](http://amzn.to/2q8v7Ql) - Christina Wodtk**
 
@@ -42,9 +42,14 @@ Please leave a comment with any recommendations for books that I should add to t
 
 	*A look into Google, starting at very beginnings of the company. I enjoyed the first half of this book the most, as it dug into the complex, interesting, and sometimes comical issues that they faced in building the first iterations of the Google search engine.*
 
-* **[The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/B019MMUA8S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Mark Manson**
+* **[The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/B019MMUA8S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Mark Manson**
 
 	*Not really a business book, but a great read nonetheless. I found it to be a summary of what you should and should not take seriously in life. Mark clearly delineates between being over emphatic and apatheic, and teaches how to find a spot between the two.*
+
+* **[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future ](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X) - Ashlee Vance**
+
+	*I loved reading this book. It demonstrates Elon Musk's perserverence and aptitude - both of which are at a level that most people can only hope to come close to. The book describes the path Musk has taken from the days of his first start up, through the success of PayPal, and then dives deeply into the intricacies and difficulties in growing Telsa and SpaceX into companies that will likely change the future. To quote a review found on Audible's website: "This book basically exploits your desire to read about extremely competent people, and you'll love it."*
+
 
 ### In the queue
 
@@ -71,5 +76,15 @@ Please leave a comment with any recommendations for books that I should add to t
 
 * **[Peopleware: Productive Projects and Teams (3rd Edition) ](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) Tom DeMarco and Tim Lister** 
 
-	*A book on how to maximize succcess and manage people in the world of software development.*
+	*A book on how to maximize succcess and manage people in the world of software development. (To be truthful, I'm about halfway through this book and have not found the will to finish it just yet. It's very dry IMO)*
+
+* **[Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147) Michael Lopp** 
+
+	*From the synopsis I can summarize that this book is a how-to for managing software developers, geared towards people who are already software developers themselves*
+
+* **[Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) Geoffrey A. Moore** 
+
+	*There's no doubt about it. This book is old. New editions have tried to enter the recent decade but you'll still hear mentions of companies that have been buried for years. The reviews are adamant though. The marketing principles laid our here are as relevant as ever, and is a must read for anyone looking to step up their marketing game.*
+
+
 
